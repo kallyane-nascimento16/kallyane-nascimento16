@@ -15,7 +15,7 @@
   ### Minhas skills:
 <div>
   <img align="center" alt="kallyane-nascimento16-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="center" alt="kallyane-nascimento16-Csharp" height="30" width="40" src="https://marcas-logos.net/wp-content/uploads/2020/02/Photoshop-logo.png">
          
 </div>
   
